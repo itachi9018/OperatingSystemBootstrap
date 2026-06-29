@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "fb9bff8c17e89c00",
+    "type": "split",
+    "children": [
+      {
+        "id": "8542a3b6acf2a3ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "672a1d3385b64db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14 Assets/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "3ae49920a8df10b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12 AI/Vault Curator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vault Curator"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54dea27fa69f3949",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2cafd21179aba3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aa1cbfc2c04406f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "667c85ea491e94cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fdc84598a8fc632c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "06a35720e3ac13f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "98a48af226d380a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c63f7e08a458867",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "31a9ab87ca6cdb2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d331da1fd33491bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "964b1e6b98fa7e9d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "23a784bcc00e1662",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "a7edc69a102d66d4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3ae49920a8df10b5",
+  "lastOpenFiles": [
+    "12 AI/Learning Coach.md",
+    "12 AI/Vault Curator.md",
+    "12 AI/Product Discovery.md",
+    "12 AI/Game Design Critic.md",
+    "12 AI/Weekly Review.md",
+    "12 AI/Article Analyzer.md",
+    "12 AI/Book Synthesizer.md",
+    "12 AI/Decision Reviewer.md",
+    "12 AI/Meeting Processor.md",
+    "12 AI/Systems Thinker.md",
+    "12 AI/Research Analyst.md",
+    "12 AI/Software Architect.md",
+    "12 AI/Founder Advisor.md",
+    "12 AI/Principle Extractor.md",
+    "12 AI/Knowledge Extractor.md",
+    "12 AI/AI Skill Format (Standard).md",
+    "11 Templates/Template 10 — Daily Journal.md",
+    "11 Templates/Template 9 — Philosophy.md",
+    "11 Templates/Template 8 — Postmortem.md",
+    "11 Templates/Template 7 — Decision.md",
+    "11 Templates/Template 6 — Project.md",
+    "11 Templates/Template 5 — Idea.md",
+    "11 Templates/Template 4 — Research.md",
+    "11 Templates/Template 3 — Principle.md",
+    "11 Templates/Metadata.md",
+    "11 Templates/Template 2 — Knowledge.md",
+    "Untitled",
+    "14 Assets",
+    "13 Maps",
+    "12 AI",
+    "11 Templates",
+    "10 Journal",
+    "09 References",
+    "08 Philosophy",
+    "07 Postmortems",
+    "06 Decisions"
+  ]
+}
